@@ -1,0 +1,7 @@
+bin/
+obj/
+packages/
+Droid/bin
+Droid/obj
+iOS/bin
+iOS/obj

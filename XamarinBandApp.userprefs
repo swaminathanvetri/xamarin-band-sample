@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="iOS/XamarinBandApp.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/BandHelper.iOS.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="45" Column="29" />
+      <File FileName="iOS/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="BandHelper.cs" Line="14" Column="5" />
+      <File FileName="iOS/BandHelper.iOS.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/z066157/SampleProjects/XamarinSamples/XamarinBandApp/BandHelper.cs" line="38" column="1" />
+      <Breakpoint file="/Users/z066157/SampleProjects/XamarinSamples/XamarinBandApp/BandHelper.cs" line="52" column="1" />
+      <Breakpoint file="/Users/z066157/SampleProjects/XamarinSamples/XamarinBandApp/BandHelper.cs" line="40" column="1" />
+      <Breakpoint file="/Users/z066157/SampleProjects/XamarinSamples/XamarinBandApp/iOS/ViewController.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinBandApp.Droid PreferredExecutionTarget="Android.Nexus_API_22" />
+  <MonoDevelop.Ide.ItemProperties.XamarinBandApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
